@@ -1,0 +1,22 @@
+
+------------------------------------------
+Antes de submeter a resolução deve:
+------------------------------------------
+
+Na 1ª vez que pretende submeter:
+--------------------------------
+1) Criar o seu repositório local
+2) git clone https://github.com/luferIPCA/ISI.git
+3) Copiar a sua resolução para a pasta ESI ou ESIPL, consoante seja do diurno ou noturno
+4) git add .
+5) git commit -m "Resolução do alunos (s) número_do_aluno(s)"
+6) git push	(com as suas credenciais)
+
+
+Nas submissões seguintes:
+-------------------------
+1) Copiar a sua resolução para a pasta ESI ou ESIPL, consoante seja do diurno ou noturno
+2) git add .
+3) git commit -m "Resolução do alunos (s) número_do_aluno(s)"
+4) git push	(com as suas credenciais)
+
