@@ -1,0 +1,1 @@
+{"data":[{"Email":"RandyBrown@gmail.com","Destino":"Washington","Lugar":"Normal","Id_Avião":1394,"Nacionalidade":"Americano","Idade":66,"Covid19":"Negativo","Companhia_Aéria":"UNITED AIRLINES","Preço":"645\u20AC","Nome_Completo":"Randy Brown","Género":"Maculino","Número_Telemóvel":"190622342","ID_Passageiro":37,"Data_Hora":"11\/12\/2020 16:40"}]}

@@ -1,0 +1,1 @@
+{"data":[{"Email":"GeorgeMcfly@gmail.com","Destino":"Ohio","Lugar":"Normal","Id_Avião":1931,"Nacionalidade":"Americano","Idade":75,"Covid19":"Negativo","Companhia_Aéria":"EASYJET AIRLINES","Preço":"650\u20AC","Nome_Completo":"George Mcfly","Género":"Maculino","Número_Telemóvel":"192325456","ID_Passageiro":14,"Data_Hora":"11\/11\/2020 23:50"}]}

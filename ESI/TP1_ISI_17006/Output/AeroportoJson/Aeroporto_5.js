@@ -1,0 +1,1 @@
+{"data":[{"Email":"NatáliaPetejo@gmail.com","Destino":"Madrid","Lugar":"Normal","Id_Avião":1242,"Nacionalidade":"Português","Idade":26,"Covid19":"Negativo","Companhia_Aéria":"EASYJET AIRLINES","Preço":"96\u20AC","Nome_Completo":"Natália Petejo","Género":"Feminino","Número_Telemóvel":"913488551","ID_Passageiro":6,"Data_Hora":"11\/10\/2020 16:00"}]}

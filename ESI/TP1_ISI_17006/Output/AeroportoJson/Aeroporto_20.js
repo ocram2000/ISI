@@ -1,0 +1,1 @@
+{"data":[{"Email":"CharlotteFlair@gmail.com","Destino":"Londres","Lugar":"Reservado","Id_Avião":1976,"Nacionalidade":"Inglês","Idade":45,"Covid19":"Positivo","Companhia_Aéria":"UNITED AIRLINES","Preço":"130\u20AC","Nome_Completo":"Charlotte Flair","Género":"Feminino","Número_Telemóvel":"198483424","ID_Passageiro":21,"Data_Hora":"11\/11\/2020 05:00"}]}

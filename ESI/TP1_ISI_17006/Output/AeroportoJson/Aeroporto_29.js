@@ -1,0 +1,1 @@
+{"data":[{"Email":"OliverClark@gmail.com","Destino":"Geórgia","Lugar":"Normal","Id_Avião":1676,"Nacionalidade":"Americano","Idade":61,"Covid19":"Negativo","Companhia_Aéria":"UNITED AIRLINES","Preço":"630\u20AC","Nome_Completo":"Oliver Clark","Género":"Maculino","Número_Telemóvel":"194763997","ID_Passageiro":30,"Data_Hora":"11\/12\/2020 06:00"}]}
