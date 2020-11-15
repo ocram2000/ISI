@@ -1,0 +1,46 @@
+<dic>
+
+ <head>A</head>
+<entry id="achafundar" ast="1">
+<form>
+<orth>Achafundar</orth>
+</form>
+<sense>
+<gramGrp>v. t.</gramGrp>
+<usg type="style">Pop.</usg>
+<def>
+Enterrar no lodo; meter no fundo da água.
+</def>
+</sense>
+</entry>
+
+<entry id="azymita">
+<form>
+<orth>Azymita</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aquelle que se serve de pão ázymo.
+</def>
+</sense>
+<etym>(De _ázymo_)</etym>
+</entry>
+
+ <head>B</head>
+
+<entry id="bacharelesco" ast="1">
+<form>
+<orth>Bacharelesco</orth>
+<phon extent="part">lês</phon>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="style">Deprec.</usg>
+<def>
+Relativo a bacharel; próprio de bacharel.
+</def>
+</sense>
+</entry>
+
+</dic>
