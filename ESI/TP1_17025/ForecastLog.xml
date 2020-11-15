@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<WeatherForecastList>
+<Forecast><Distrito>Braga</Distrito> <Previsao>Chuva</Previsao> <Vento>Fraco</Vento> <tMin>11.6</tMin> <tMax>17.8</tMax> <precipitaProb>100.0</precipitaProb> <Data>2020-11-15</Data></Forecast>
+<Forecast><Distrito>Lisboa</Distrito> <Previsao>Céu parcialmente nublado</Previsao> <Vento>Fraco</Vento> <tMin>16.7</tMin> <tMax>22.1</tMax> <precipitaProb>0.0</precipitaProb> <Data>2020-11-15</Data></Forecast>
+</WeatherForecastList>
