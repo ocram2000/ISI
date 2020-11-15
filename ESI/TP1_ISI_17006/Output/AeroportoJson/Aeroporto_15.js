@@ -1,0 +1,1 @@
+{"data":[{"Email":"RaquelGomes@gmail.com","Destino":"Roma","Lugar":"Reservado","Id_Avião":1365,"Nacionalidade":"Português","Idade":78,"Covid19":"Positivo","Companhia_Aéria":"EASYJET AIRLINES","Preço":"234\u20AC","Nome_Completo":"Raquel Gomes","Género":"Feminino","Número_Telemóvel":"919572736","ID_Passageiro":16,"Data_Hora":"11\/11\/2020 05:10"}]}
