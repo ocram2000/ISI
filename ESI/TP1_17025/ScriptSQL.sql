@@ -1,0 +1,1 @@
+INSERT INTO WeatherForecast(Distrito, Previsao, Vento, tMin, tMax, precipitaProb, Dia) VALUES (E'Braga',E'Chuva',E'Fraco',116,0,178,0,1000,0,E'2020-11-15');INSERT INTO WeatherForecast(Distrito, Previsao, Vento, tMin, tMax, precipitaProb, Dia) VALUES (E'Lisboa',E'Céu parcialmente nublado',E'Fraco',167,0,221,0,0,0,E'2020-11-15');
